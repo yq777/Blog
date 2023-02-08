@@ -9,4 +9,4 @@
 
 #### 其他
 
-* [内存泄漏重点](https://github.com/yq777/Blog/其他/内存泄漏重点.md)
+* [内存泄漏重点](https://github.com/yq777/Blog/tree/master/其他/内存泄漏重点.md)
